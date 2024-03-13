@@ -1,0 +1,3 @@
+/srv/home/pthombre/GPUProject/repo759/FinalProject/CMakeFiles/YourCudaProject.dir
+/srv/home/pthombre/GPUProject/repo759/FinalProject/CMakeFiles/edit_cache.dir
+/srv/home/pthombre/GPUProject/repo759/FinalProject/CMakeFiles/rebuild_cache.dir

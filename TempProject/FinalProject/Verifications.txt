@@ -1,0 +1,23 @@
+Verification done till now.
+elemSizeX
+NCoords
+positionNodes
+N - ShapeFunction
+gradN
+gradNCell
+JTotal
+boundary
+F
+gradNdx
+gradNdxs
+KElem
+myK
+allDOF size=1x768
+myFreeDOF size=1x720
+myDeltaSol size=768x1
+First FEM iteration fix, b, dSol
+Boundary Values
+Eigen cg sparse matrix verified
+Eigen LU decompostion working for dSol
+Custom ConjugateGradient method added and verified
+

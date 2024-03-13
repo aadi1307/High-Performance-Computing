@@ -1,0 +1,1 @@
+/opt/apps/gcc/x86_64/11.3.0/bin/g++ @CMakeFiles/YourCudaProject.dir/objects1.rsp -o YourCudaProject @CMakeFiles/YourCudaProject.dir/linkLibs.rsp -L"/opt/apps/cuda/x86_64/11.8.0/default/targets/x86_64-linux/lib/stubs" -L"/opt/apps/cuda/x86_64/11.8.0/default/targets/x86_64-linux/lib"

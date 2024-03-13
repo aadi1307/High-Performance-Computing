@@ -1,0 +1,7 @@
+#include "eigen-3.4.0/Eigen/Core"
+#include "LU"
+#include "Cholesky"
+#include "QR"
+#include "SVD"
+#include "Geometry"
+#include "Eigenvalues"
