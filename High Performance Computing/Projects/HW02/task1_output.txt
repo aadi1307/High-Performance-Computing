@@ -1,0 +1,24 @@
+0
+0.334775
+-4.46151
+Running for n=1024
+Running for n=2048
+Running for n=4096
+Running for n=8192
+Running for n=16384
+Running for n=32768
+Running for n=65536
+Running for n=131072
+Running for n=262144
+Running for n=524288
+Running for n=1048576
+Running for n=2097152
+Running for n=4194304
+Running for n=8388608
+Running for n=16777216
+Running for n=33554432
+Running for n=67108864
+Running for n=134217728
+Running for n=268435456
+Running for n=536870912
+Running for n=1073741824
